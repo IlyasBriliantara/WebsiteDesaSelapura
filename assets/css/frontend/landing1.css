@@ -1,0 +1,132 @@
+
+.news {
+    padding-top: 5%;
+}
+
+#sambutan {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+}
+
+#news-title {
+    /* background-color: #778beb; */
+    padding-left: 5%;
+    padding-right: 5%;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#news-title h5 {
+    color: #fff;
+}
+
+
+#news-card {
+    width: 18rem;
+    padding: 2%;
+    margin-bottom: 13%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+}
+#news-card img {
+    border-radius: 5%;
+    width: 100%;
+    max-height: 25vh;
+    object-fit: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+#baca {
+    /* background-color: #30336b;
+    color: #fff; */
+    width: 100%;
+    border-radius: 15px;
+}
+/* #baca:hover {
+    color: #fff;
+} */
+
+.card-body p {
+    font-size: 14px;
+}
+
+.information {
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.sosmed {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.link {
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+@media (min-width: 992px) {
+
+    .news {
+        padding-top: 5%;
+    }
+
+    #news-title {
+        padding-left: 5%;
+        padding-right: 5%;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    #news-title h5 {
+        color: #fff;
+    }
+
+    .Agenda {
+        padding-top: 9%;
+    }
+
+ }
+
+
+ /* Equal-height card images, cf. https://stackoverflow.com/a/47698201/1375163*/
+.card-img-top {
+    /*height: 11vw;*/
+    object-fit: cover;
+}
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) {
+    .card-img-top {
+        height: 19vw;
+    }
+  }
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) {
+    .card-img-top {
+        height: 16vw;
+    }
+  }
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) {
+    .card-img-top {
+        height: 11vw;
+    }
+  }
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 992px) {
+    .card-img-top {
+        height: 11vw;
+    }
+  }

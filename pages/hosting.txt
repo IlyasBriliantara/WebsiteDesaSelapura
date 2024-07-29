@@ -1,0 +1,20 @@
+## Hosting nasi Hosting
+Welcome desaselapura
+Alamat website anda : https://desaselapura.xcodehoster.com
+Login : https://desaselapura.xcodehoster.com/login.php
+Username : admin
+Password : selapurapastijaya
+Cara ganti password edit pada bagian config.php, cari password anda dan ganti dengan password yang baru
+
+Login phpmyadmin
+Login : https://desaselapura.xcodehoster.com/phpmyadmin
+Username : desaselapura
+Password : selapurapastijaya
+
+Jika file config.php atau login.php terhapus
+Login : https://desaselapura.xcodehoster.com/recovery/login.php
+Username : admin
+Password : selapurapastijaya
+
+Saat ini subdomain anda sudah aktif
+File login.php dan config.php tidak boleh dihapus. Jika lupa password, login tidak jalan, ingin pakai domain sendiri dan sebagainya maka klik https://chat.whatsapp.com/BG51V2lD6442ZTCQ6r36MX lalu baca deskripsi group dan tulis nama subdomainnya di group.
